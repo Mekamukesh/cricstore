@@ -1,0 +1,85 @@
+.navbar-elements {
+    color: black;
+    font: bold;
+    background-color: aqua;
+    border-radius: 16px;
+}
+
+.navbar-placement {
+    margin-left: auto;
+}
+
+.main-heading {
+    color: gold;
+    font-family: cursive;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.carousel-design {
+    height: 450px;
+    width: 100%;
+}
+
+.welcome-heading {
+    text-align: left;
+}
+
+.item-image {
+    height: 90px;
+    width: 150px;
+    border-radius: 16px;
+    margin: auto;
+}
+
+.item-background {
+    background-color: rgb(255, 246, 233);
+    border-radius: 16px;
+    margin: 25px;
+    text-align: center;
+}
+.reward-image{
+    width: 50vw;
+    height: 40vh;
+    margin-left: 0px;
+}
+.button-design{
+    margin-top: 10px;
+    background-color:coral;
+    border-radius: 16px;
+    
+}
+.reward-background{
+    background-image: radial-gradient(white,gold);
+}
+.big-button{
+    padding: 25px;
+    margin-top: 10px;
+    border-radius: 16px;
+    background-color: yellow;
+}
+.thanking-background{
+    background-color: rgb(250, 235, 217);
+}
+.icon-design{
+    font-size: large;
+    height: 80px;
+    width:80px;
+    background-color: bisque;
+    border-radius: 40px;
+    border-color: white;
+    margin: 25px;
+
+}
+.icon-size{
+    font-size: 35px;
+}
+.follow-us-background{
+    background-color: bisque;
+}
+.credit-heading{
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    text-decoration: underline;
+}
